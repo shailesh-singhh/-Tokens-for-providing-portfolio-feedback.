@@ -8,6 +8,8 @@ This project incentivizes users to provide feedback on portfolios by rewarding t
 
 ## Contract Address
 0x65F5B8F23BcE57836B73C538B6E80678E2817d6c
+![image](https://github.com/user-attachments/assets/0f00bda6-7f91-4b33-adcd-7bb3106bc19d)
+
 
 ## Project Vision
 To create a decentralized and transparent mechanism for incentivizing constructive feedback, fostering a community of active participants, and improving portfolio quality for creators and contributors.
